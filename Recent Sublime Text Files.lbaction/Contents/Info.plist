@@ -13,26 +13,26 @@
 	<key>LBDescription</key>
 	<dict>
 		<key>LBAuthor</key>
-		<string>Vincent Q. Vu</string>
+		<string>Matt Coneybeare</string>
 		<key>LBEmail</key>
-		<string>vqv@me.com</string>
+		<string>matt@@coneybeare.me</string>
 		<key>LBRequirements</key>
 		<string>Sublime Text 3</string>
 		<key>LBResult</key>
-		<string>The list of recently opened Sublime Text projects</string>
+		<string>The list of recently opened Sublime Text files</string>
 		<key>LBSummary</key>
-		<string>This action returns a list of recently opened Sublime Text 3 projects</string>
+		<string>This action returns a list of recently opened Sublime Text 3 files</string>
 		<key>LBTwitter</key>
 		<string></string>
 		<key>LBWebsiteURL</key>
-		<string></string>
+		<string>https://matt.coneybeare.me</string>
 	</dict>
 	<key>LBRequiredApplication</key>
 	<string>com.sublimetext.3</string>
 	<key>LBRequirements</key>
 	<string>Sublime Text 3</string>
 	<key>LBResult</key>
-	<string>The list of recently opened Sublime Text projects</string>
+	<string>The list of recently opened Sublime Text files</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
@@ -40,7 +40,7 @@
 			<key>LBKeepWindowActive</key>
 			<true/>
 			<key>LBResultType</key>
-			<string>unknown</string>
+			<string></string>
 			<key>LBReturnsResult</key>
 			<true/>
 			<key>LBScriptName</key>
@@ -50,6 +50,6 @@
 	<key>LSMinimumSystemVersion</key>
 	<string>10.10</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2016 Vincent Q. Vu</string>
+	<string>Copyright © 2019 Matt Coneybeare</string>
 </dict>
 </plist>
